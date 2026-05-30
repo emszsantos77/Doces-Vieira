@@ -152,18 +152,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1104830.0",
-    "cnpj_cpf": "26.742.278/0001-28",
-    "emissao": "2026-03-27",
-    "vlr_total": 97.18,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1193681.0",
     "cnpj_cpf": "26.742.278/0001-28",
     "emissao": "2026-05-21",
     "vlr_total": 242.95,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1104830.0",
+    "cnpj_cpf": "26.742.278/0001-28",
+    "emissao": "2026-03-27",
+    "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -176,17 +176,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1127638.0",
+    "pedido_unico": "1171076.0",
     "cnpj_cpf": "58.190.057/0001-80",
-    "emissao": "2026-04-09",
+    "emissao": "2026-05-07",
     "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1171076.0",
+    "pedido_unico": "1127638.0",
     "cnpj_cpf": "58.190.057/0001-80",
-    "emissao": "2026-05-07",
+    "emissao": "2026-04-09",
     "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -224,17 +224,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1127629.0",
+    "pedido_unico": "1170979.0",
     "cnpj_cpf": "40.896.750/0001-08",
-    "emissao": "2026-04-09",
+    "emissao": "2026-05-07",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1170979.0",
+    "pedido_unico": "1127629.0",
     "cnpj_cpf": "40.896.750/0001-08",
-    "emissao": "2026-05-07",
+    "emissao": "2026-04-09",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -504,17 +504,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1168499.0",
+    "pedido_unico": "1076217.0",
     "cnpj_cpf": "28.849.787/0001-80",
-    "emissao": "2026-05-05",
+    "emissao": "2026-03-10",
     "vlr_total": 38.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1076217.0",
+    "pedido_unico": "1168499.0",
     "cnpj_cpf": "28.849.787/0001-80",
-    "emissao": "2026-03-10",
+    "emissao": "2026-05-05",
     "vlr_total": 38.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
@@ -888,7 +888,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P114",
+    "pedido_unico": "P118",
     "cnpj_cpf": "00.179.252/0001-20",
     "emissao": "2026-03-17",
     "vlr_total": 61.69,
@@ -896,17 +896,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1186983.0",
+    "pedido_unico": "1138945.0",
     "cnpj_cpf": "13.646.054/0001-70",
-    "emissao": "2026-05-15",
+    "emissao": "2026-04-16",
     "vlr_total": 61.69,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1138945.0",
+    "pedido_unico": "1186983.0",
     "cnpj_cpf": "13.646.054/0001-70",
-    "emissao": "2026-04-16",
+    "emissao": "2026-05-15",
     "vlr_total": 61.69,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1336,6 +1336,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205656.0",
+    "cnpj_cpf": "15.629.579/0006-38",
+    "emissao": "2026-05-29",
+    "vlr_total": 58.58,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1127496.0",
     "cnpj_cpf": "15.629.579/0006-38",
     "emissao": "2026-04-09",
@@ -1376,6 +1384,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205656.0",
+    "cnpj_cpf": "15.629.579/0006-38",
+    "emissao": "2026-05-29",
+    "vlr_total": 31.29,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1071992.0",
     "cnpj_cpf": "15.629.579/0009-80",
     "emissao": "2026-03-06",
@@ -1400,9 +1416,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205660.0",
+    "cnpj_cpf": "15.629.579/0009-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1071992.0",
     "cnpj_cpf": "15.629.579/0009-80",
     "emissao": "2026-03-06",
+    "vlr_total": 31.29,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205660.0",
+    "cnpj_cpf": "15.629.579/0009-80",
+    "emissao": "2026-05-29",
     "vlr_total": 31.29,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1544,10 +1576,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205691.0",
+    "cnpj_cpf": "48.105.485/0001-04",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1108682.0",
     "cnpj_cpf": "48.105.485/0001-04",
     "emissao": "2026-03-27",
     "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205691.0",
+    "cnpj_cpf": "48.105.485/0001-04",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
   },
@@ -1616,9 +1664,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205664.0",
+    "cnpj_cpf": "15.629.579/0012-86",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1084836.0",
     "cnpj_cpf": "15.629.579/0012-86",
     "emissao": "2026-03-13",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205664.0",
+    "cnpj_cpf": "15.629.579/0012-86",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1656,9 +1720,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205664.0",
+    "cnpj_cpf": "15.629.579/0012-86",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1084836.0",
     "cnpj_cpf": "15.629.579/0012-86",
     "emissao": "2026-03-13",
+    "vlr_total": 38.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205664.0",
+    "cnpj_cpf": "15.629.579/0012-86",
+    "emissao": "2026-05-29",
     "vlr_total": 38.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1808,9 +1888,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1073685.0",
+    "pedido_unico": "1205662.0",
     "cnpj_cpf": "15.629.579/0011-03",
-    "emissao": "2026-03-06",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1819,6 +1899,38 @@
     "pedido_unico": "1073685.0",
     "cnpj_cpf": "15.629.579/0011-03",
     "emissao": "2026-03-06",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205662.0",
+    "cnpj_cpf": "15.629.579/0011-03",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205662.0",
+    "cnpj_cpf": "15.629.579/0011-03",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1073685.0",
+    "cnpj_cpf": "15.629.579/0011-03",
+    "emissao": "2026-03-06",
+    "vlr_total": 31.29,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205662.0",
+    "cnpj_cpf": "15.629.579/0011-03",
+    "emissao": "2026-05-29",
     "vlr_total": 31.29,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -1944,6 +2056,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205807.0",
+    "cnpj_cpf": "01.042.411/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205807.0",
+    "cnpj_cpf": "01.042.411/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1193560.0",
     "cnpj_cpf": "55.793.498/0001-89",
     "emissao": "2026-05-21",
@@ -2024,9 +2152,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205647.0",
+    "cnpj_cpf": "60.364.246/0001-74",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1067021.0",
     "cnpj_cpf": "60.364.246/0001-74",
     "emissao": "2026-03-06",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205647.0",
+    "cnpj_cpf": "60.364.246/0001-74",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -2288,6 +2432,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205168.0",
+    "cnpj_cpf": "50.301.836/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
+    "nome_vendedor": "MARCOS JEAN",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1159497.0",
     "cnpj_cpf": "50.301.836/0001-02",
     "emissao": "2026-04-30",
@@ -2309,6 +2461,14 @@
     "emissao": "2026-04-17",
     "vlr_total": 48.59,
     "nome_vendedor": "EDSON CORREIA (77 99165-5655)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205567.0",
+    "cnpj_cpf": "33.344.216/0001-23",
+    "emissao": "2026-05-29",
+    "vlr_total": 79.98,
+    "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
   },
   {
@@ -2340,6 +2500,14 @@
     "cnpj_cpf": "980.979.548-34",
     "emissao": "2026-03-20",
     "vlr_total": 43.19,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205560.0",
+    "cnpj_cpf": "37.422.711/0001-64",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
   },
@@ -2408,6 +2576,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205559.0",
+    "cnpj_cpf": "61.731.935/0001-32",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1193644.0",
     "cnpj_cpf": "61.731.935/0001-32",
     "emissao": "2026-05-22",
@@ -2432,14 +2608,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1184288.0",
-    "cnpj_cpf": "13.130.850/0001-56",
-    "emissao": "2026-05-14",
-    "vlr_total": 48.59,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1091014.0",
     "cnpj_cpf": "13.130.850/0001-56",
     "emissao": "2026-03-19",
@@ -2451,6 +2619,14 @@
     "pedido_unico": "1139123.0",
     "cnpj_cpf": "13.130.850/0001-56",
     "emissao": "2026-04-16",
+    "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1184288.0",
+    "cnpj_cpf": "13.130.850/0001-56",
+    "emissao": "2026-05-14",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -2504,6 +2680,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205855.0",
+    "cnpj_cpf": "34.199.174/0001-47",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1091020.0",
     "cnpj_cpf": "34.199.174/0001-47",
     "emissao": "2026-03-19",
@@ -2520,10 +2704,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205954.0",
+    "cnpj_cpf": "24.910.685/0001-71",
+    "emissao": "2026-05-29",
+    "vlr_total": 123.38,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139050.0",
     "cnpj_cpf": "24.910.685/0001-71",
     "emissao": "2026-04-16",
     "vlr_total": 123.38,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205954.0",
+    "cnpj_cpf": "24.910.685/0001-71",
+    "emissao": "2026-05-29",
+    "vlr_total": 89.98,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -2544,6 +2744,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205954.0",
+    "cnpj_cpf": "24.910.685/0001-71",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139050.0",
     "cnpj_cpf": "24.910.685/0001-71",
     "emissao": "2026-04-16",
@@ -2556,6 +2764,14 @@
     "cnpj_cpf": "37.279.626/0001-99",
     "emissao": "2026-03-06",
     "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206303.0",
+    "cnpj_cpf": "37.279.626/0001-99",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -2579,6 +2795,14 @@
     "pedido_unico": "1159909.0",
     "cnpj_cpf": "22.405.165/0001-86",
     "emissao": "2026-04-30",
+    "vlr_total": 44.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205970.0",
+    "cnpj_cpf": "22.405.165/0001-86",
+    "emissao": "2026-05-29",
     "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -2648,10 +2872,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1203479.0",
+    "cnpj_cpf": "41.522.856/0001-04",
+    "emissao": "2026-05-27",
+    "vlr_total": 48.59,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1089411.0",
     "cnpj_cpf": "41.522.856/0001-04",
     "emissao": "2026-03-18",
     "vlr_total": 48.59,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1203479.0",
+    "cnpj_cpf": "41.522.856/0001-04",
+    "emissao": "2026-05-27",
+    "vlr_total": 61.69,
     "nome_vendedor": "GABRIEL PEREIRA",
     "grupo": "Vendas"
   },
@@ -2669,6 +2909,38 @@
     "emissao": "2026-03-18",
     "vlr_total": 29.29,
     "nome_vendedor": "GABRIEL PEREIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
   },
   {
@@ -2696,9 +2968,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1197680.0",
+    "pedido_unico": "1210284.0",
     "cnpj_cpf": "54.536.079/0001-07",
-    "emissao": "2026-05-22",
+    "emissao": "2026-05-29",
     "vlr_total": 35.69,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -2707,6 +2979,14 @@
     "pedido_unico": "1197680.0",
     "cnpj_cpf": "54.536.079/0001-07",
     "emissao": "2026-05-22",
+    "vlr_total": 35.69,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
     "vlr_total": 35.69,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -2723,6 +3003,22 @@
     "pedido_unico": "1197680.0",
     "cnpj_cpf": "54.536.079/0001-07",
     "emissao": "2026-05-22",
+    "vlr_total": 35.69,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210284.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 77.98,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1197680.0",
+    "cnpj_cpf": "54.536.079/0001-07",
+    "emissao": "2026-05-22",
     "vlr_total": 38.99,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -2731,6 +3027,22 @@
     "pedido_unico": "1071070.0",
     "cnpj_cpf": "40.176.879/0001-41",
     "emissao": "2026-03-06",
+    "vlr_total": 39.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205297.0",
+    "cnpj_cpf": "40.176.879/0001-41",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205297.0",
+    "cnpj_cpf": "40.176.879/0001-41",
+    "emissao": "2026-05-29",
     "vlr_total": 39.99,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -2832,6 +3144,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1181124.0",
+    "cnpj_cpf": "071.003.595-03",
+    "emissao": "2026-05-12",
+    "vlr_total": 39.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1136324.0",
     "cnpj_cpf": "071.003.595-03",
     "emissao": "2026-04-14",
@@ -2848,25 +3168,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1181124.0",
+    "pedido_unico": "1136324.0",
     "cnpj_cpf": "071.003.595-03",
-    "emissao": "2026-05-12",
-    "vlr_total": 39.99,
-    "nome_vendedor": "WESCKEY FONTES",
-    "grupo": "Vendas"
-  },
-  {
-    "pedido_unico": "1181124.0",
-    "cnpj_cpf": "071.003.595-03",
-    "emissao": "2026-05-12",
+    "emissao": "2026-04-14",
     "vlr_total": 38.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1136324.0",
+    "pedido_unico": "1181124.0",
     "cnpj_cpf": "071.003.595-03",
-    "emissao": "2026-04-14",
+    "emissao": "2026-05-12",
     "vlr_total": 38.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
@@ -2880,7 +3192,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P371",
+    "pedido_unico": "P414",
     "cnpj_cpf": "36.945.185/0001-54",
     "emissao": "2026-03-16",
     "vlr_total": 61.69,
@@ -2896,7 +3208,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P373",
+    "pedido_unico": "P416",
     "cnpj_cpf": "36.945.185/0001-54",
     "emissao": "2026-03-02",
     "vlr_total": 44.99,
@@ -2912,7 +3224,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P376",
+    "pedido_unico": "P419",
     "cnpj_cpf": "36.945.185/0001-54",
     "emissao": "2026-03-02",
     "vlr_total": 53.99,
@@ -2944,7 +3256,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P381",
+    "pedido_unico": "P424",
     "cnpj_cpf": "36.945.185/0001-54",
     "emissao": "2026-03-16",
     "vlr_total": 53.99,
@@ -3648,6 +3960,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202106.0",
+    "cnpj_cpf": "19.859.046/0001-99",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1157225.0",
     "cnpj_cpf": "19.859.046/0001-99",
     "emissao": "2026-04-28",
@@ -3672,9 +3992,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1152731.0",
+    "pedido_unico": "1209968.0",
     "cnpj_cpf": "37.420.714/0001-69",
-    "emissao": "2026-04-24",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -3696,6 +4016,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1152731.0",
+    "cnpj_cpf": "37.420.714/0001-69",
+    "emissao": "2026-04-24",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1084380.0",
     "cnpj_cpf": "37.420.714/0001-69",
     "emissao": "2026-03-13",
@@ -3704,17 +4032,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1131462.0",
+    "pedido_unico": "1174479.0",
     "cnpj_cpf": "37.420.714/0001-69",
-    "emissao": "2026-04-10",
+    "emissao": "2026-05-08",
     "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1174479.0",
+    "pedido_unico": "1131462.0",
     "cnpj_cpf": "37.420.714/0001-69",
-    "emissao": "2026-05-08",
+    "emissao": "2026-04-10",
     "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -3739,6 +4067,14 @@
     "pedido_unico": "1188643.0",
     "cnpj_cpf": "37.420.714/0001-69",
     "emissao": "2026-05-15",
+    "vlr_total": 39.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P535",
+    "cnpj_cpf": "37.420.714/0001-69",
+    "emissao": "2026-05-26",
     "vlr_total": 39.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -3840,6 +4176,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206695.0",
+    "cnpj_cpf": "37.803.064/0001-30",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1197851.0",
     "cnpj_cpf": "37.803.064/0001-30",
     "emissao": "2026-05-22",
@@ -3864,14 +4208,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1152734.0",
-    "cnpj_cpf": "37.803.064/0001-30",
-    "emissao": "2026-04-24",
-    "vlr_total": 53.99,
-    "nome_vendedor": "CARMILTON GOMES (118)",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1091442.0",
     "cnpj_cpf": "37.803.064/0001-30",
     "emissao": "2026-03-20",
@@ -3880,9 +4216,33 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1152734.0",
+    "cnpj_cpf": "37.803.064/0001-30",
+    "emissao": "2026-04-24",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1184626.0",
     "cnpj_cpf": "37.803.064/0001-30",
     "emissao": "2026-05-15",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206695.0",
+    "cnpj_cpf": "37.803.064/0001-30",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206695.0",
+    "cnpj_cpf": "37.803.064/0001-30",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -4000,10 +4360,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208106.0",
+    "cnpj_cpf": "20.882.186/0001-67",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1152732.0",
     "cnpj_cpf": "20.882.186/0001-67",
     "emissao": "2026-04-24",
     "vlr_total": 44.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208106.0",
+    "cnpj_cpf": "20.882.186/0001-67",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
@@ -4024,17 +4400,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1139942.0",
+    "pedido_unico": "1094764.0",
     "cnpj_cpf": "20.882.186/0001-67",
-    "emissao": "2026-04-17",
+    "emissao": "2026-03-20",
     "vlr_total": 39.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1094764.0",
+    "pedido_unico": "1139942.0",
     "cnpj_cpf": "20.882.186/0001-67",
-    "emissao": "2026-03-20",
+    "emissao": "2026-04-17",
     "vlr_total": 39.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -4336,6 +4712,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210156.0",
+    "cnpj_cpf": "19.357.297/0001-75",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1174137.0",
     "cnpj_cpf": "19.357.297/0001-75",
     "emissao": "2026-05-08",
@@ -4347,6 +4731,14 @@
     "pedido_unico": "1117364.0",
     "cnpj_cpf": "19.357.297/0001-75",
     "emissao": "2026-04-02",
+    "vlr_total": 39.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210156.0",
+    "cnpj_cpf": "19.357.297/0001-75",
+    "emissao": "2026-05-29",
     "vlr_total": 39.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
@@ -4536,18 +4928,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1150419.0",
-    "cnpj_cpf": "01.408.952/0002-92",
-    "emissao": "2026-04-24",
-    "vlr_total": 107.98,
-    "nome_vendedor": "TADEU SANTOS",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1104330.0",
     "cnpj_cpf": "01.408.952/0002-92",
     "emissao": "2026-03-27",
     "vlr_total": 161.97,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1150419.0",
+    "cnpj_cpf": "01.408.952/0002-92",
+    "emissao": "2026-04-24",
+    "vlr_total": 107.98,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
   },
@@ -5048,17 +5440,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1127651.0",
+    "pedido_unico": "1171092.0",
     "cnpj_cpf": "53.314.812/0001-78",
-    "emissao": "2026-04-09",
+    "emissao": "2026-05-07",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1171092.0",
+    "pedido_unico": "1127651.0",
     "cnpj_cpf": "53.314.812/0001-78",
-    "emissao": "2026-05-07",
+    "emissao": "2026-04-09",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -5196,6 +5588,14 @@
     "cnpj_cpf": "64.024.644/0001-00",
     "emissao": "2026-03-12",
     "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206308.0",
+    "cnpj_cpf": "045.186.355-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 66.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -5376,6 +5776,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206287.0",
+    "cnpj_cpf": "07.869.626/0003-40",
+    "emissao": "2026-05-29",
+    "vlr_total": 97.18,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113073.0",
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-03-31",
@@ -5392,14 +5800,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1184320.0",
-    "cnpj_cpf": "07.869.626/0003-40",
-    "emissao": "2026-05-14",
-    "vlr_total": 97.18,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1091161.0",
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-03-19",
@@ -5412,6 +5812,14 @@
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-04-16",
     "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1184320.0",
+    "cnpj_cpf": "07.869.626/0003-40",
+    "emissao": "2026-05-14",
+    "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -5464,6 +5872,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206287.0",
+    "cnpj_cpf": "07.869.626/0003-40",
+    "emissao": "2026-05-29",
+    "vlr_total": 123.38,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1184320.0",
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-05-14",
@@ -5472,10 +5888,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1139127.0",
+    "pedido_unico": "1206287.0",
     "cnpj_cpf": "07.869.626/0003-40",
-    "emissao": "2026-04-16",
-    "vlr_total": 89.98,
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -5488,6 +5904,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1139127.0",
+    "cnpj_cpf": "07.869.626/0003-40",
+    "emissao": "2026-04-16",
+    "vlr_total": 89.98,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1184320.0",
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-05-14",
@@ -5555,6 +5979,14 @@
     "pedido_unico": "1184320.0",
     "cnpj_cpf": "07.869.626/0003-40",
     "emissao": "2026-05-14",
+    "vlr_total": 39.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206287.0",
+    "cnpj_cpf": "07.869.626/0003-40",
+    "emissao": "2026-05-29",
     "vlr_total": 39.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -5592,6 +6024,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206300.0",
+    "cnpj_cpf": "07.524.274/0001-29",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1189053.0",
     "cnpj_cpf": "48.756.257/0001-02",
     "emissao": "2026-05-15",
@@ -5600,17 +6040,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1148077.0",
+    "pedido_unico": "1188165.0",
     "cnpj_cpf": "59.056.246/0001-28",
-    "emissao": "2026-04-23",
+    "emissao": "2026-05-15",
     "vlr_total": 39.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1188165.0",
+    "pedido_unico": "1148077.0",
     "cnpj_cpf": "59.056.246/0001-28",
-    "emissao": "2026-05-15",
+    "emissao": "2026-04-23",
     "vlr_total": 39.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -5667,6 +6107,14 @@
     "pedido_unico": "1067135.0",
     "cnpj_cpf": "127.209.685-87",
     "emissao": "2026-03-06",
+    "vlr_total": 66.63,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206279.0",
+    "cnpj_cpf": "127.209.685-87",
+    "emissao": "2026-05-29",
     "vlr_total": 66.63,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -5840,10 +6288,34 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205914.0",
+    "cnpj_cpf": "079.322.795-00",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1183950.0",
     "cnpj_cpf": "079.322.795-00",
     "emissao": "2026-05-14",
     "vlr_total": 107.98,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206075.0",
+    "cnpj_cpf": "26.104.065/0001-70",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206075.0",
+    "cnpj_cpf": "26.104.065/0001-70",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "JAILTON SANTOS (140)",
     "grupo": "Vendas"
   },
@@ -5992,10 +6464,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205910.0",
+    "cnpj_cpf": "50.120.531/0001-96",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1165785.0",
     "cnpj_cpf": "50.120.531/0001-96",
     "emissao": "2026-04-30",
     "vlr_total": 89.98,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205910.0",
+    "cnpj_cpf": "50.120.531/0001-96",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
   },
@@ -6176,14 +6664,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1149425.0",
-    "cnpj_cpf": "12.807.792/0001-90",
-    "emissao": "2026-04-24",
-    "vlr_total": 38.99,
-    "nome_vendedor": "JONES FERNANDES",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1103708.0",
     "cnpj_cpf": "12.807.792/0001-90",
     "emissao": "2026-03-27",
@@ -6192,9 +6672,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1172447.0",
+    "pedido_unico": "1149425.0",
     "cnpj_cpf": "12.807.792/0001-90",
-    "emissao": "2026-05-08",
+    "emissao": "2026-04-24",
     "vlr_total": 38.99,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
@@ -6216,6 +6696,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1172447.0",
+    "cnpj_cpf": "12.807.792/0001-90",
+    "emissao": "2026-05-08",
+    "vlr_total": 38.99,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1120358.0",
     "cnpj_cpf": "45.290.044/0001-31",
     "emissao": "2026-04-02",
@@ -6228,6 +6716,14 @@
     "cnpj_cpf": "45.290.044/0001-31",
     "emissao": "2026-04-02",
     "vlr_total": 39.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205250.0",
+    "cnpj_cpf": "42.140.687/0001-00",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
     "nome_vendedor": "HIAN RIBEIRO",
     "grupo": "Vendas"
   },
@@ -6243,6 +6739,14 @@
     "pedido_unico": "1116821.0",
     "cnpj_cpf": "32.291.258/0001-80",
     "emissao": "2026-04-02",
+    "vlr_total": 53.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1209601.0",
+    "cnpj_cpf": "32.291.258/0001-80",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "HIAN RIBEIRO",
     "grupo": "Vendas"
@@ -6304,11 +6808,27 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210248.0",
+    "cnpj_cpf": "37.001.585/0001-74",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1088594.0",
     "cnpj_cpf": "26.569.733/0001-35",
     "emissao": "2026-03-17",
     "vlr_total": 35.99,
     "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205683.0",
+    "cnpj_cpf": "58.281.824/0001-67",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
   },
   {
@@ -6392,6 +6912,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205810.0",
+    "cnpj_cpf": "27.881.441/0001-04",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1127586.0",
     "cnpj_cpf": "28.578.062/0001-02",
     "emissao": "2026-04-09",
@@ -6400,10 +6928,42 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208415.0",
+    "cnpj_cpf": "28.578.062/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208415.0",
+    "cnpj_cpf": "28.578.062/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208415.0",
+    "cnpj_cpf": "28.578.062/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1067063.0",
     "cnpj_cpf": "54.245.283/0001-60",
     "emissao": "2026-03-06",
     "vlr_total": 89.98,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205774.0",
+    "cnpj_cpf": "54.245.283/0001-60",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
   },
@@ -6420,6 +6980,22 @@
     "cnpj_cpf": "54.245.283/0001-60",
     "emissao": "2026-04-10",
     "vlr_total": 44.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205774.0",
+    "cnpj_cpf": "54.245.283/0001-60",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "TADEU SANTOS",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205774.0",
+    "cnpj_cpf": "54.245.283/0001-60",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "TADEU SANTOS",
     "grupo": "Vendas"
   },
@@ -6704,9 +7280,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205288.0",
+    "cnpj_cpf": "00.722.186/0001-92",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1149598.0",
     "cnpj_cpf": "00.722.186/0001-92",
     "emissao": "2026-04-24",
+    "vlr_total": 61.69,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1129144.0",
+    "cnpj_cpf": "00.722.186/0001-92",
+    "emissao": "2026-04-10",
     "vlr_total": 61.69,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
@@ -6720,10 +7312,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1129144.0",
+    "pedido_unico": "1205288.0",
     "cnpj_cpf": "00.722.186/0001-92",
-    "emissao": "2026-04-10",
-    "vlr_total": 61.69,
+    "emissao": "2026-05-29",
+    "vlr_total": 44.9,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
   },
@@ -6752,10 +7344,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205290.0",
+    "cnpj_cpf": "41.572.935/0001-20",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1105498.0",
     "cnpj_cpf": "41.572.935/0001-20",
     "emissao": "2026-03-30",
     "vlr_total": 39.99,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205290.0",
+    "cnpj_cpf": "41.572.935/0001-20",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.9,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
   },
@@ -7064,9 +7672,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205611.0",
+    "cnpj_cpf": "28.513.421/0001-35",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1091008.0",
     "cnpj_cpf": "28.513.421/0001-35",
     "emissao": "2026-03-20",
+    "vlr_total": 53.99,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205611.0",
+    "cnpj_cpf": "28.513.421/0001-35",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "JAILTON SANTOS (140)",
     "grupo": "Vendas"
@@ -7216,6 +7840,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205680.0",
+    "cnpj_cpf": "45.612.326/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205680.0",
+    "cnpj_cpf": "45.612.326/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "JAILTON SANTOS (140)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1175014.0",
     "cnpj_cpf": "08.222.026/0001-96",
     "emissao": "2026-05-08",
@@ -7336,18 +7976,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1127652.0",
-    "cnpj_cpf": "03.643.689/0001-60",
-    "emissao": "2026-04-09",
-    "vlr_total": 97.18,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1171099.0",
     "cnpj_cpf": "03.643.689/0001-60",
     "emissao": "2026-05-07",
     "vlr_total": 145.77,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1127652.0",
+    "cnpj_cpf": "03.643.689/0001-60",
+    "emissao": "2026-04-09",
+    "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -7592,17 +8232,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1171766.0",
+    "pedido_unico": "1129187.0",
     "cnpj_cpf": "28.594.921/0001-49",
-    "emissao": "2026-05-07",
+    "emissao": "2026-04-10",
     "vlr_total": 39.99,
     "nome_vendedor": "ANDRE VINAGRE (123)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1129187.0",
+    "pedido_unico": "1171766.0",
     "cnpj_cpf": "28.594.921/0001-49",
-    "emissao": "2026-04-10",
+    "emissao": "2026-05-07",
     "vlr_total": 39.99,
     "nome_vendedor": "ANDRE VINAGRE (123)",
     "grupo": "Vendas"
@@ -7856,18 +8496,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1147492.0",
-    "cnpj_cpf": "49.392.357/0001-51",
-    "emissao": "2026-04-22",
-    "vlr_total": 29.29,
-    "nome_vendedor": "SHEILLA MARIANO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1186989.0",
     "cnpj_cpf": "49.392.357/0001-51",
     "emissao": "2026-05-15",
     "vlr_total": 58.58,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1147492.0",
+    "cnpj_cpf": "49.392.357/0001-51",
+    "emissao": "2026-04-22",
+    "vlr_total": 29.29,
     "nome_vendedor": "SHEILLA MARIANO",
     "grupo": "Vendas"
   },
@@ -7892,6 +8532,14 @@
     "cnpj_cpf": "49.392.357/0001-51",
     "emissao": "2026-05-15",
     "vlr_total": 58.58,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202723.0",
+    "cnpj_cpf": "49.392.357/0001-51",
+    "emissao": "2026-05-26",
+    "vlr_total": 79.98,
     "nome_vendedor": "SHEILLA MARIANO",
     "grupo": "Vendas"
   },
@@ -7944,10 +8592,66 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 123.38,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 134.97,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 79.98,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210128.0",
+    "cnpj_cpf": "09.534.655/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 89.8,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1112744.0",
     "cnpj_cpf": "51.611.561/0001-68",
     "emissao": "2026-03-31",
     "vlr_total": 224.95,
+    "nome_vendedor": "SHEILLA MARIANO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1207293.0",
+    "cnpj_cpf": "51.611.561/0001-68",
+    "emissao": "2026-05-29",
+    "vlr_total": 187.74,
     "nome_vendedor": "SHEILLA MARIANO",
     "grupo": "Vendas"
   },
@@ -8000,6 +8704,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202739.0",
+    "cnpj_cpf": "54.177.634/0001-43",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "ELICARLOS (138)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113005.0",
     "cnpj_cpf": "54.177.634/0001-43",
     "emissao": "2026-03-31",
@@ -8028,6 +8740,14 @@
     "cnpj_cpf": "58.367.738/0001-71",
     "emissao": "2026-04-14",
     "vlr_total": 38.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202918.0",
+    "cnpj_cpf": "45.663.984/0001-29",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
@@ -8088,6 +8808,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205116.0",
+    "cnpj_cpf": "06.129.185/0001-15",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205116.0",
+    "cnpj_cpf": "06.129.185/0001-15",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1116767.0",
     "cnpj_cpf": "07.667.781/0001-11",
     "emissao": "2026-04-02",
@@ -8104,17 +8840,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1176568.0",
+    "pedido_unico": "1084853.0",
     "cnpj_cpf": "09.013.779/0001-54",
-    "emissao": "2026-05-08",
+    "emissao": "2026-03-13",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1084853.0",
+    "pedido_unico": "1176568.0",
     "cnpj_cpf": "09.013.779/0001-54",
-    "emissao": "2026-03-13",
+    "emissao": "2026-05-08",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -8432,6 +9168,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1203553.0",
+    "cnpj_cpf": "30.505.942/0001-92",
+    "emissao": "2026-05-27",
+    "vlr_total": 39.99,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113686.0",
     "cnpj_cpf": "53.872.085/0001-64",
     "emissao": "2026-03-31",
@@ -8456,17 +9200,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1169377.0",
+    "pedido_unico": "1124315.0",
     "cnpj_cpf": "48.204.239/0001-00",
-    "emissao": "2026-05-06",
+    "emissao": "2026-04-08",
     "vlr_total": 39.99,
     "nome_vendedor": "GABRIEL PEREIRA",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1124315.0",
+    "pedido_unico": "1169377.0",
     "cnpj_cpf": "48.204.239/0001-00",
-    "emissao": "2026-04-08",
+    "emissao": "2026-05-06",
     "vlr_total": 39.99,
     "nome_vendedor": "GABRIEL PEREIRA",
     "grupo": "Vendas"
@@ -8488,7 +9232,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1156",
+    "pedido_unico": "P1265",
     "cnpj_cpf": "073.636.175-89",
     "emissao": "2026-04-24",
     "vlr_total": 39.99,
@@ -8496,7 +9240,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1157",
+    "pedido_unico": "P1266",
     "cnpj_cpf": "325.886.418-73",
     "emissao": "2026-03-20",
     "vlr_total": 35.99,
@@ -8504,7 +9248,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1158",
+    "pedido_unico": "P1267",
     "cnpj_cpf": "325.886.418-73",
     "emissao": "2026-03-20",
     "vlr_total": 36.99,
@@ -8512,7 +9256,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1159",
+    "pedido_unico": "P1268",
     "cnpj_cpf": "325.886.418-73",
     "emissao": "2026-03-20",
     "vlr_total": 38.99,
@@ -8520,7 +9264,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1160",
+    "pedido_unico": "P1269",
     "cnpj_cpf": "676.826.265-34",
     "emissao": "2026-05-20",
     "vlr_total": 44.99,
@@ -8928,10 +9672,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201105.0",
+    "cnpj_cpf": "24.767.140/0001-58",
+    "emissao": "2026-05-25",
+    "vlr_total": 44.99,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1179525.0",
     "cnpj_cpf": "24.767.140/0001-58",
     "emissao": "2026-05-11",
     "vlr_total": 44.99,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201963.0",
+    "cnpj_cpf": "42.062.544/0001-28",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
     "nome_vendedor": "HELLEN GOMES",
     "grupo": "Vendas"
   },
@@ -9000,6 +9760,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202107.0",
+    "cnpj_cpf": "10.976.684/0001-15",
+    "emissao": "2026-05-26",
+    "vlr_total": 35.69,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1157045.0",
     "cnpj_cpf": "10.976.684/0001-15",
     "emissao": "2026-04-28",
@@ -9016,10 +9784,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202330.0",
+    "cnpj_cpf": "48.867.160/0001-69",
+    "emissao": "2026-05-26",
+    "vlr_total": 61.69,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1074348.0",
     "cnpj_cpf": "48.346.638/0001-05",
     "emissao": "2026-03-09",
     "vlr_total": 38.99,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1209264.0",
+    "cnpj_cpf": "48.346.638/0001-05",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
     "nome_vendedor": "HELLEN GOMES",
     "grupo": "Vendas"
   },
@@ -9232,17 +10016,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1095273.0",
+    "pedido_unico": "1084405.0",
     "cnpj_cpf": "031.325.895-35",
-    "emissao": "2026-03-20",
+    "emissao": "2026-03-13",
     "vlr_total": 38.99,
     "nome_vendedor": "HELLEN GOMES",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1084405.0",
+    "pedido_unico": "1095273.0",
     "cnpj_cpf": "031.325.895-35",
-    "emissao": "2026-03-13",
+    "emissao": "2026-03-20",
     "vlr_total": 38.99,
     "nome_vendedor": "HELLEN GOMES",
     "grupo": "Vendas"
@@ -9260,6 +10044,14 @@
     "cnpj_cpf": "58.190.907/0001-40",
     "emissao": "2026-05-04",
     "vlr_total": 44.99,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1209070.0",
+    "cnpj_cpf": "58.190.907/0001-40",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
     "nome_vendedor": "HELLEN GOMES",
     "grupo": "Vendas"
   },
@@ -9364,6 +10156,14 @@
     "cnpj_cpf": "29.765.459/0001-68",
     "emissao": "2026-05-22",
     "vlr_total": 39.99,
+    "nome_vendedor": "GABRIEL PEREIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206240.0",
+    "cnpj_cpf": "045.579.925-36",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
     "nome_vendedor": "GABRIEL PEREIRA",
     "grupo": "Vendas"
   },
@@ -9536,9 +10336,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205052.0",
+    "cnpj_cpf": "07.675.866/0001-41",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "JORGE REIS (117)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113169.0",
     "cnpj_cpf": "07.675.866/0001-41",
     "emissao": "2026-03-31",
+    "vlr_total": 53.99,
+    "nome_vendedor": "JORGE REIS (117)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205052.0",
+    "cnpj_cpf": "07.675.866/0001-41",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "JORGE REIS (117)",
     "grupo": "Vendas"
@@ -9549,6 +10365,14 @@
     "emissao": "2026-03-31",
     "vlr_total": 44.9,
     "nome_vendedor": "JORGE REIS (117)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206192.0",
+    "cnpj_cpf": "00.171.166/0001-70",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
   {
@@ -9563,6 +10387,14 @@
     "pedido_unico": "1139958.0",
     "cnpj_cpf": "00.171.166/0001-70",
     "emissao": "2026-04-17",
+    "vlr_total": 53.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206192.0",
+    "cnpj_cpf": "00.171.166/0001-70",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
@@ -9584,10 +10416,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206330.0",
+    "cnpj_cpf": "23.835.735/0001-30",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1140165.0",
     "cnpj_cpf": "23.835.735/0001-30",
     "emissao": "2026-04-17",
     "vlr_total": 39.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206332.0",
+    "cnpj_cpf": "55.115.536/0001-44",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
@@ -9600,6 +10448,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208915.0",
+    "cnpj_cpf": "57.543.053/0001-76",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1091335.0",
     "cnpj_cpf": "57.543.053/0001-76",
     "emissao": "2026-03-20",
@@ -9608,6 +10464,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208915.0",
+    "cnpj_cpf": "57.543.053/0001-76",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1091335.0",
     "cnpj_cpf": "57.543.053/0001-76",
     "emissao": "2026-03-20",
@@ -9620,6 +10484,22 @@
     "cnpj_cpf": "57.543.053/0001-76",
     "emissao": "2026-03-20",
     "vlr_total": 107.98,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208915.0",
+    "cnpj_cpf": "57.543.053/0001-76",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208915.0",
+    "cnpj_cpf": "57.543.053/0001-76",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
@@ -9744,17 +10624,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1152772.0",
+    "pedido_unico": "1194121.0",
     "cnpj_cpf": "25.244.805/0001-01",
-    "emissao": "2026-04-24",
+    "emissao": "2026-05-22",
     "vlr_total": 53.99,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1194121.0",
+    "pedido_unico": "1152772.0",
     "cnpj_cpf": "25.244.805/0001-01",
-    "emissao": "2026-05-22",
+    "emissao": "2026-04-24",
     "vlr_total": 53.99,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
@@ -9816,6 +10696,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205711.0",
+    "cnpj_cpf": "14.562.563/0001-88",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
+    "nome_vendedor": "CLARA ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113884.0",
     "cnpj_cpf": "14.562.563/0001-88",
     "emissao": "2026-03-31",
@@ -9848,14 +10736,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1152002.0",
-    "cnpj_cpf": "32.665.267/0001-94",
-    "emissao": "2026-04-24",
-    "vlr_total": 31.29,
-    "nome_vendedor": "CLARA ARAUJO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1082892.0",
     "cnpj_cpf": "32.665.267/0001-94",
     "emissao": "2026-03-13",
@@ -9867,6 +10747,14 @@
     "pedido_unico": "1186759.0",
     "cnpj_cpf": "32.665.267/0001-94",
     "emissao": "2026-05-15",
+    "vlr_total": 31.29,
+    "nome_vendedor": "CLARA ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1152002.0",
+    "cnpj_cpf": "32.665.267/0001-94",
+    "emissao": "2026-04-24",
     "vlr_total": 31.29,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
@@ -9968,17 +10856,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1149190.0",
+    "pedido_unico": "1103282.0",
     "cnpj_cpf": "51.003.643/0001-20",
-    "emissao": "2026-04-24",
+    "emissao": "2026-03-27",
     "vlr_total": 38.99,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1103282.0",
+    "pedido_unico": "1149190.0",
     "cnpj_cpf": "51.003.643/0001-20",
-    "emissao": "2026-03-27",
+    "emissao": "2026-04-24",
     "vlr_total": 38.99,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
@@ -10044,6 +10932,14 @@
     "cnpj_cpf": "51.826.312/0001-90",
     "emissao": "2026-04-09",
     "vlr_total": 44.99,
+    "nome_vendedor": "CLARA ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206011.0",
+    "cnpj_cpf": "36.596.586/0001-46",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
     "nome_vendedor": "CLARA ARAUJO",
     "grupo": "Vendas"
   },
@@ -10152,10 +11048,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202125.0",
+    "cnpj_cpf": "14.546.865/0001-62",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1135166.0",
     "cnpj_cpf": "14.546.865/0001-62",
     "emissao": "2026-04-14",
     "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202125.0",
+    "cnpj_cpf": "14.546.865/0001-62",
+    "emissao": "2026-05-26",
+    "vlr_total": 79.98,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
@@ -10552,6 +11464,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202179.0",
+    "cnpj_cpf": "46.011.146/0001-33",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1087384.0",
     "cnpj_cpf": "46.011.146/0001-33",
     "emissao": "2026-03-17",
@@ -10565,6 +11485,14 @@
     "emissao": "2026-04-14",
     "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205075.0",
+    "cnpj_cpf": "00.381.216/0001-44",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "JORGE REIS (117)",
     "grupo": "Vendas"
   },
   {
@@ -10656,6 +11584,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205003.0",
+    "cnpj_cpf": "10.618.751/0001-20",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "EDVALDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1108745.0",
     "cnpj_cpf": "44.781.831/0001-13",
     "emissao": "2026-03-27",
@@ -10720,6 +11656,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208943.0",
+    "cnpj_cpf": "30.858.907/0001-57",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1184653.0",
     "cnpj_cpf": "30.858.907/0001-57",
     "emissao": "2026-05-15",
@@ -10756,6 +11700,14 @@
     "cnpj_cpf": "30.858.907/0001-57",
     "emissao": "2026-05-08",
     "vlr_total": 29.29,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208943.0",
+    "cnpj_cpf": "30.858.907/0001-57",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
   },
@@ -10824,6 +11776,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
+    "vlr_total": 48.59,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1104925.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-03-27",
@@ -10848,6 +11808,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
+    "vlr_total": 29.29,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1171869.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-05-08",
@@ -10872,9 +11840,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1104925.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-03-27",
+    "vlr_total": 44.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1194178.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-22",
     "vlr_total": 44.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -10888,14 +11872,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1194178.0",
-    "cnpj_cpf": "45.110.395/0001-13",
-    "emissao": "2026-05-22",
-    "vlr_total": 44.99,
-    "nome_vendedor": "BRUNO OLIVEIRA",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1184591.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-05-15",
@@ -10920,6 +11896,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1194178.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-05-22",
@@ -10939,6 +11923,14 @@
     "pedido_unico": "1127883.0",
     "cnpj_cpf": "45.110.395/0001-13",
     "emissao": "2026-04-09",
+    "vlr_total": 53.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -10992,10 +11984,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1151980.0",
-    "cnpj_cpf": "60.860.935/0001-70",
-    "emissao": "2026-04-24",
-    "vlr_total": 29.29,
+    "pedido_unico": "1206723.0",
+    "cnpj_cpf": "45.110.395/0001-13",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
   },
@@ -11003,6 +11995,14 @@
     "pedido_unico": "1174437.0",
     "cnpj_cpf": "60.860.935/0001-70",
     "emissao": "2026-05-08",
+    "vlr_total": 29.29,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1151980.0",
+    "cnpj_cpf": "60.860.935/0001-70",
+    "emissao": "2026-04-24",
     "vlr_total": 29.29,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -11256,7 +12256,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1550",
+    "pedido_unico": "P1691",
     "cnpj_cpf": "02.034.729/0001-04",
     "emissao": "2026-05-18",
     "vlr_total": 61.69,
@@ -11312,6 +12312,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205121.0",
+    "cnpj_cpf": "23.704.702/0001-51",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MARCOS JEAN",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1117873.0",
     "cnpj_cpf": "02.121.026/0001-13",
     "emissao": "2026-04-02",
@@ -11347,6 +12355,14 @@
     "pedido_unico": "1117873.0",
     "cnpj_cpf": "02.121.026/0001-13",
     "emissao": "2026-04-02",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MARCOS JEAN",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205112.0",
+    "cnpj_cpf": "02.121.026/0001-13",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "MARCOS JEAN",
     "grupo": "Vendas"
@@ -11456,6 +12472,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205872.0",
+    "cnpj_cpf": "16.613.495/0001-64",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "ANDRÉ RODRIGUES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139851.0",
     "cnpj_cpf": "16.613.495/0001-64",
     "emissao": "2026-04-17",
@@ -11528,6 +12552,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206223.0",
+    "cnpj_cpf": "16.745.146/0001-04",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206223.0",
+    "cnpj_cpf": "16.745.146/0001-04",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1179789.0",
     "cnpj_cpf": "18.650.710/0001-22",
     "emissao": "2026-05-14",
@@ -11560,7 +12600,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1592",
+    "pedido_unico": "P1739",
     "cnpj_cpf": "02.146.164/0001-57",
     "emissao": "2026-04-01",
     "vlr_total": 97.18,
@@ -11584,17 +12624,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1596",
+    "pedido_unico": "1113056.0",
     "cnpj_cpf": "02.146.164/0001-57",
-    "emissao": "2026-04-01",
+    "emissao": "2026-03-31",
     "vlr_total": 61.69,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1113056.0",
+    "pedido_unico": "P1744",
     "cnpj_cpf": "02.146.164/0001-57",
-    "emissao": "2026-03-31",
+    "emissao": "2026-04-01",
     "vlr_total": 61.69,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -11608,7 +12648,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1600",
+    "pedido_unico": "P1747",
     "cnpj_cpf": "02.146.164/0001-57",
     "emissao": "2026-04-22",
     "vlr_total": 89.98,
@@ -11664,6 +12704,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1090980.0",
+    "cnpj_cpf": "62.399.286/0001-87",
+    "emissao": "2026-03-19",
+    "vlr_total": 44.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139113.0",
     "cnpj_cpf": "62.399.286/0001-87",
     "emissao": "2026-04-16",
@@ -11672,10 +12720,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1090980.0",
+    "pedido_unico": "1205717.0",
     "cnpj_cpf": "62.399.286/0001-87",
-    "emissao": "2026-03-19",
-    "vlr_total": 44.99,
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -11736,6 +12784,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205762.0",
+    "cnpj_cpf": "55.958.990/0001-67",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "EVERALDO ALVES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1184579.0",
     "cnpj_cpf": "16.661.542/0001-45",
     "emissao": "2026-05-15",
@@ -11752,7 +12808,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1619",
+    "pedido_unico": "P1768",
     "cnpj_cpf": "47.636.557/0001-87",
     "emissao": "2026-03-05",
     "vlr_total": 48.59,
@@ -11768,7 +12824,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1622",
+    "pedido_unico": "P1771",
     "cnpj_cpf": "47.636.557/0001-87",
     "emissao": "2026-03-05",
     "vlr_total": 53.99,
@@ -11848,9 +12904,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1207297.0",
+    "cnpj_cpf": "36.040.771/0001-50",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1112706.0",
     "cnpj_cpf": "36.040.771/0001-50",
     "emissao": "2026-03-31",
+    "vlr_total": 53.99,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1207297.0",
+    "cnpj_cpf": "36.040.771/0001-50",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
@@ -11860,6 +12932,14 @@
     "cnpj_cpf": "36.040.771/0001-50",
     "emissao": "2026-03-31",
     "vlr_total": 53.99,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1207297.0",
+    "cnpj_cpf": "36.040.771/0001-50",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
   },
@@ -12008,6 +13088,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208424.0",
+    "cnpj_cpf": "27.996.411/0001-35",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1104224.0",
     "cnpj_cpf": "27.996.411/0001-35",
     "emissao": "2026-03-27",
@@ -12019,6 +13107,14 @@
     "pedido_unico": "1104224.0",
     "cnpj_cpf": "27.996.411/0001-35",
     "emissao": "2026-03-27",
+    "vlr_total": 53.99,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208424.0",
+    "cnpj_cpf": "27.996.411/0001-35",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
@@ -12128,9 +13224,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1163119.0",
+    "pedido_unico": "1206262.0",
     "cnpj_cpf": "33.665.582/0001-84",
-    "emissao": "2026-04-30",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
@@ -12144,9 +13240,81 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206262.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1163119.0",
     "cnpj_cpf": "33.665.582/0001-84",
     "emissao": "2026-04-30",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206262.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206262.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206262.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1163119.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-04-30",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206262.0",
+    "cnpj_cpf": "33.665.582/0001-84",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205832.0",
+    "cnpj_cpf": "64.887.480/0001-37",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205832.0",
+    "cnpj_cpf": "64.887.480/0001-37",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205832.0",
+    "cnpj_cpf": "64.887.480/0001-37",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
@@ -12264,17 +13432,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1149485.0",
+    "pedido_unico": "1103701.0",
     "cnpj_cpf": "05.554.279/0001-79",
-    "emissao": "2026-04-24",
+    "emissao": "2026-03-27",
     "vlr_total": 53.99,
     "nome_vendedor": "EDVALDO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1103701.0",
+    "pedido_unico": "1149485.0",
     "cnpj_cpf": "05.554.279/0001-79",
-    "emissao": "2026-03-27",
+    "emissao": "2026-04-24",
     "vlr_total": 53.99,
     "nome_vendedor": "EDVALDO",
     "grupo": "Vendas"
@@ -12496,7 +13664,15 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1719",
+    "pedido_unico": "1205571.0",
+    "cnpj_cpf": "031.535.755-09",
+    "emissao": "2026-05-29",
+    "vlr_total": 38.59,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P1883",
     "cnpj_cpf": "55.080.409/0001-57",
     "emissao": "2026-04-22",
     "vlr_total": 39.99,
@@ -12512,6 +13688,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205572.0",
+    "cnpj_cpf": "55.080.409/0001-57",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
+    "nome_vendedor": "HELLEN GOMES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1130416.0",
     "cnpj_cpf": "55.080.409/0001-57",
     "emissao": "2026-04-10",
@@ -12520,17 +13704,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1115826.0",
+    "pedido_unico": "1171024.0",
     "cnpj_cpf": "40.016.224/0001-06",
-    "emissao": "2026-04-02",
+    "emissao": "2026-05-07",
     "vlr_total": 123.38,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1171024.0",
+    "pedido_unico": "1115826.0",
     "cnpj_cpf": "40.016.224/0001-06",
-    "emissao": "2026-05-07",
+    "emissao": "2026-04-02",
     "vlr_total": 123.38,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
@@ -12568,7 +13752,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1730",
+    "pedido_unico": "P1895",
     "cnpj_cpf": "42.024.992/0001-37",
     "emissao": "2026-04-01",
     "vlr_total": 323.94,
@@ -12592,7 +13776,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1735",
+    "pedido_unico": "P1900",
     "cnpj_cpf": "42.024.992/0001-37",
     "emissao": "2026-04-01",
     "vlr_total": 323.94,
@@ -12656,14 +13840,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1121935.0",
-    "cnpj_cpf": "02.907.612/0001-98",
-    "emissao": "2026-04-07",
-    "vlr_total": 53.99,
-    "nome_vendedor": "MAURÍCIO SILVA",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1167459.0",
     "cnpj_cpf": "02.907.612/0001-98",
     "emissao": "2026-05-05",
@@ -12675,6 +13851,22 @@
     "pedido_unico": "1121935.0",
     "cnpj_cpf": "02.907.612/0001-98",
     "emissao": "2026-04-07",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1121935.0",
+    "cnpj_cpf": "02.907.612/0001-98",
+    "emissao": "2026-04-07",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201922.0",
+    "cnpj_cpf": "02.907.612/0001-98",
+    "emissao": "2026-05-26",
     "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
@@ -12692,6 +13884,14 @@
     "cnpj_cpf": "02.907.612/0001-98",
     "emissao": "2026-04-07",
     "vlr_total": 39.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201922.0",
+    "cnpj_cpf": "02.907.612/0001-98",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
   },
@@ -12752,7 +13952,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1755",
+    "pedido_unico": "P1922",
     "cnpj_cpf": "03.783.136/0001-03",
     "emissao": "2026-03-19",
     "vlr_total": 44.99,
@@ -12848,17 +14048,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1190982.0",
+    "pedido_unico": "1157028.0",
     "cnpj_cpf": "41.985.500/0001-07",
-    "emissao": "2026-05-19",
+    "emissao": "2026-04-28",
     "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1157028.0",
+    "pedido_unico": "1190982.0",
     "cnpj_cpf": "41.985.500/0001-07",
-    "emissao": "2026-04-28",
+    "emissao": "2026-05-19",
     "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
@@ -13024,6 +14224,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1203585.0",
+    "cnpj_cpf": "07.094.909/0001-03",
+    "emissao": "2026-05-27",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MARCOS JEAN",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1136939.0",
     "cnpj_cpf": "07.094.909/0001-03",
     "emissao": "2026-04-15",
@@ -13128,6 +14336,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206148.0",
+    "cnpj_cpf": "49.242.732/0001-87",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1068981.0",
     "cnpj_cpf": "051.823.035-05",
     "emissao": "2026-03-06",
@@ -13163,6 +14379,14 @@
     "pedido_unico": "1140168.0",
     "cnpj_cpf": "051.823.035-05",
     "emissao": "2026-04-17",
+    "vlr_total": 58.29,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206212.0",
+    "cnpj_cpf": "051.823.035-05",
+    "emissao": "2026-05-29",
     "vlr_total": 58.29,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
@@ -13200,17 +14424,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1139911.0",
+    "pedido_unico": "1184042.0",
     "cnpj_cpf": "42.900.549/0001-82",
-    "emissao": "2026-04-17",
+    "emissao": "2026-05-15",
     "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1184042.0",
+    "pedido_unico": "1139911.0",
     "cnpj_cpf": "42.900.549/0001-82",
-    "emissao": "2026-05-15",
+    "emissao": "2026-04-17",
     "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
@@ -13220,6 +14444,22 @@
     "cnpj_cpf": "10.725.934/0001-44",
     "emissao": "2026-03-27",
     "vlr_total": 44.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P1986",
+    "cnpj_cpf": "10.725.934/0001-44",
+    "emissao": "2026-05-28",
+    "vlr_total": 53.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P1987",
+    "cnpj_cpf": "10.725.934/0001-44",
+    "emissao": "2026-05-28",
+    "vlr_total": 53.99,
     "nome_vendedor": "HIAN RIBEIRO",
     "grupo": "Vendas"
   },
@@ -13240,17 +14480,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1078938.0",
+    "pedido_unico": "1172286.0",
     "cnpj_cpf": "09.061.191/0001-76",
-    "emissao": "2026-03-13",
+    "emissao": "2026-05-08",
     "vlr_total": 53.99,
     "nome_vendedor": "HIAN RIBEIRO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1172286.0",
+    "pedido_unico": "1078938.0",
     "cnpj_cpf": "09.061.191/0001-76",
-    "emissao": "2026-05-08",
+    "emissao": "2026-03-13",
     "vlr_total": 53.99,
     "nome_vendedor": "HIAN RIBEIRO",
     "grupo": "Vendas"
@@ -14056,10 +15296,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201911.0",
+    "cnpj_cpf": "37.721.399/0001-00",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1111835.0",
     "cnpj_cpf": "37.721.399/0001-00",
     "emissao": "2026-03-31",
     "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201911.0",
+    "cnpj_cpf": "37.721.399/0001-00",
+    "emissao": "2026-05-26",
+    "vlr_total": 79.98,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
   },
@@ -14104,6 +15360,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201896.0",
+    "cnpj_cpf": "18.580.236/0001-00",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1134546.0",
     "cnpj_cpf": "18.580.236/0001-00",
     "emissao": "2026-04-14",
@@ -14115,6 +15379,14 @@
     "pedido_unico": "1074744.0",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-03-10",
+    "vlr_total": 44.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201912.0",
+    "cnpj_cpf": "59.576.289/0001-34",
+    "emissao": "2026-05-26",
     "vlr_total": 44.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
@@ -14136,7 +15408,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1936",
+    "pedido_unico": "P2115",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-05-02",
     "vlr_total": 53.99,
@@ -14160,7 +15432,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1941",
+    "pedido_unico": "P2120",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-04-17",
     "vlr_total": 53.99,
@@ -14184,6 +15456,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201912.0",
+    "cnpj_cpf": "59.576.289/0001-34",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1100372.0",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-03-24",
@@ -14200,6 +15480,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201912.0",
+    "cnpj_cpf": "59.576.289/0001-34",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1121921.0",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-04-07",
@@ -14208,7 +15496,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1948",
+    "pedido_unico": "P2129",
     "cnpj_cpf": "59.576.289/0001-34",
     "emissao": "2026-04-10",
     "vlr_total": 53.99,
@@ -14248,9 +15536,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1201915.0",
+    "cnpj_cpf": "66.047.839/0001-93",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1180141.0",
     "cnpj_cpf": "66.047.839/0001-93",
     "emissao": "2026-05-12",
+    "vlr_total": 53.99,
+    "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201915.0",
+    "cnpj_cpf": "66.047.839/0001-93",
+    "emissao": "2026-05-26",
     "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
     "grupo": "Vendas"
@@ -14261,6 +15565,38 @@
     "emissao": "2026-05-12",
     "vlr_total": 53.99,
     "nome_vendedor": "MAURÍCIO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205220.0",
+    "cnpj_cpf": "27.889.698/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205220.0",
+    "cnpj_cpf": "27.889.698/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205220.0",
+    "cnpj_cpf": "27.889.698/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205220.0",
+    "cnpj_cpf": "27.889.698/0001-02",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
   },
   {
@@ -14536,7 +15872,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P1991",
+    "pedido_unico": "P2178",
     "cnpj_cpf": "47.153.378/0001-99",
     "emissao": "2026-05-06",
     "vlr_total": 129.54,
@@ -14548,6 +15884,14 @@
     "cnpj_cpf": "47.153.378/0001-99",
     "emissao": "2026-04-30",
     "vlr_total": 194.32,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210233.0",
+    "cnpj_cpf": "47.153.378/0001-99",
+    "emissao": "2026-05-29",
+    "vlr_total": 185.07,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
   },
@@ -14572,6 +15916,14 @@
     "cnpj_cpf": "47.153.378/0001-99",
     "emissao": "2026-03-31",
     "vlr_total": 38.99,
+    "nome_vendedor": "JONES FERNANDES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210233.0",
+    "cnpj_cpf": "47.153.378/0001-99",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
     "nome_vendedor": "JONES FERNANDES",
     "grupo": "Vendas"
   },
@@ -14744,6 +16096,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206093.0",
+    "cnpj_cpf": "62.348.965/0001-27",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139611.0",
     "cnpj_cpf": "62.348.965/0001-27",
     "emissao": "2026-04-17",
@@ -14756,6 +16116,14 @@
     "cnpj_cpf": "62.348.965/0001-27",
     "emissao": "2026-05-14",
     "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206093.0",
+    "cnpj_cpf": "62.348.965/0001-27",
+    "emissao": "2026-05-29",
+    "vlr_total": 31.29,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
   },
@@ -14824,6 +16192,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205671.0",
+    "cnpj_cpf": "56.953.196/0001-93",
+    "emissao": "2026-05-29",
+    "vlr_total": 123.38,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1149112.0",
     "cnpj_cpf": "56.953.196/0001-93",
     "emissao": "2026-04-23",
@@ -14844,6 +16220,14 @@
     "cnpj_cpf": "56.953.196/0001-93",
     "emissao": "2026-04-23",
     "vlr_total": 53.99,
+    "nome_vendedor": "GILDASIO GAMA (128)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205671.0",
+    "cnpj_cpf": "56.953.196/0001-93",
+    "emissao": "2026-05-29",
+    "vlr_total": 89.8,
     "nome_vendedor": "GILDASIO GAMA (128)",
     "grupo": "Vendas"
   },
@@ -15008,17 +16392,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1140128.0",
+    "pedido_unico": "1184600.0",
     "cnpj_cpf": "13.468.034/0001-57",
-    "emissao": "2026-04-17",
+    "emissao": "2026-05-15",
     "vlr_total": 53.99,
     "nome_vendedor": "ANDERSON NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1184600.0",
+    "pedido_unico": "1140128.0",
     "cnpj_cpf": "13.468.034/0001-57",
-    "emissao": "2026-05-15",
+    "emissao": "2026-04-17",
     "vlr_total": 53.99,
     "nome_vendedor": "ANDERSON NASCIMENTO",
     "grupo": "Vendas"
@@ -15029,6 +16413,14 @@
     "emissao": "2026-04-17",
     "vlr_total": 53.99,
     "nome_vendedor": "ANDERSON NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206597.0",
+    "cnpj_cpf": "922.267.105-82",
+    "emissao": "2026-05-29",
+    "vlr_total": 43.19,
+    "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
   {
@@ -15168,17 +16560,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1129987.0",
+    "pedido_unico": "1176376.0",
     "cnpj_cpf": "29.202.748/0003-10",
-    "emissao": "2026-04-10",
+    "emissao": "2026-05-08",
     "vlr_total": 39.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1176376.0",
+    "pedido_unico": "1129987.0",
     "cnpj_cpf": "29.202.748/0003-10",
-    "emissao": "2026-05-08",
+    "emissao": "2026-04-10",
     "vlr_total": 39.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
@@ -15328,7 +16720,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2099",
+    "pedido_unico": "P2293",
     "cnpj_cpf": "09.402.672/0001-06",
     "emissao": "2026-05-20",
     "vlr_total": 44.99,
@@ -15512,7 +16904,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2123",
+    "pedido_unico": "P2317",
     "cnpj_cpf": "00.727.600/0001-56",
     "emissao": "2026-03-24",
     "vlr_total": 48.59,
@@ -15528,7 +16920,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2128",
+    "pedido_unico": "P2322",
     "cnpj_cpf": "00.727.600/0001-56",
     "emissao": "2026-03-24",
     "vlr_total": 48.59,
@@ -15547,6 +16939,14 @@
     "pedido_unico": "1117295.0",
     "cnpj_cpf": "00.727.600/0001-56",
     "emissao": "2026-04-02",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208431.0",
+    "cnpj_cpf": "00.727.600/0001-56",
+    "emissao": "2026-05-29",
     "vlr_total": 61.69,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -15648,7 +17048,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2146",
+    "pedido_unico": "P2342",
     "cnpj_cpf": "04.167.977/0001-59",
     "emissao": "2026-05-13",
     "vlr_total": 61.69,
@@ -15664,18 +17064,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1175031.0",
-    "cnpj_cpf": "07.333.912/0001-24",
-    "emissao": "2026-05-08",
-    "vlr_total": 194.36,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1130590.0",
     "cnpj_cpf": "07.333.912/0001-24",
     "emissao": "2026-04-10",
     "vlr_total": 97.18,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1175031.0",
+    "cnpj_cpf": "07.333.912/0001-24",
+    "emissao": "2026-05-08",
+    "vlr_total": 194.36,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -15776,18 +17176,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1175028.0",
-    "cnpj_cpf": "30.367.088/0001-45",
-    "emissao": "2026-05-08",
-    "vlr_total": 48.59,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1132007.0",
     "cnpj_cpf": "30.367.088/0001-45",
     "emissao": "2026-04-10",
     "vlr_total": 97.18,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1175028.0",
+    "cnpj_cpf": "30.367.088/0001-45",
+    "emissao": "2026-05-08",
+    "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -15828,6 +17228,14 @@
     "cnpj_cpf": "30.367.088/0001-45",
     "emissao": "2026-03-27",
     "vlr_total": 29.29,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P2365",
+    "cnpj_cpf": "30.367.088/0001-45",
+    "emissao": "2026-05-27",
+    "vlr_total": 89.98,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -15896,10 +17304,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210161.0",
+    "cnpj_cpf": "05.499.265/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 145.77,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1130591.0",
     "cnpj_cpf": "05.499.265/0001-08",
     "emissao": "2026-04-10",
     "vlr_total": 145.77,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210161.0",
+    "cnpj_cpf": "05.499.265/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 97.18,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -15912,6 +17336,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210161.0",
+    "cnpj_cpf": "05.499.265/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 185.07,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1130591.0",
     "cnpj_cpf": "05.499.265/0001-08",
     "emissao": "2026-04-10",
@@ -15920,9 +17352,25 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1210161.0",
+    "cnpj_cpf": "05.499.265/0001-08",
+    "emissao": "2026-05-29",
+    "vlr_total": 29.29,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1082757.0",
     "cnpj_cpf": "05.499.265/0001-08",
     "emissao": "2026-03-13",
+    "vlr_total": 29.29,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1210161.0",
+    "cnpj_cpf": "05.499.265/0001-08",
+    "emissao": "2026-05-29",
     "vlr_total": 29.29,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -16000,6 +17448,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1193921.0",
+    "cnpj_cpf": "40.173.350/0001-74",
+    "emissao": "2026-05-21",
+    "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1105393.0",
     "cnpj_cpf": "40.173.350/0001-74",
     "emissao": "2026-03-27",
@@ -16008,14 +17464,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1193921.0",
-    "cnpj_cpf": "40.173.350/0001-74",
-    "emissao": "2026-05-21",
-    "vlr_total": 48.59,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1176569.0",
     "cnpj_cpf": "40.173.350/0001-74",
     "emissao": "2026-05-08",
@@ -16032,26 +17480,18 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1130650.0",
+    "cnpj_cpf": "40.173.350/0001-74",
+    "emissao": "2026-04-10",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1176569.0",
     "cnpj_cpf": "40.173.350/0001-74",
     "emissao": "2026-05-08",
     "vlr_total": 61.69,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
-    "pedido_unico": "1130650.0",
-    "cnpj_cpf": "40.173.350/0001-74",
-    "emissao": "2026-04-10",
-    "vlr_total": 61.69,
-    "nome_vendedor": "RAUNES NASCIMENTO",
-    "grupo": "Vendas"
-  },
-  {
-    "pedido_unico": "1130650.0",
-    "cnpj_cpf": "40.173.350/0001-74",
-    "emissao": "2026-04-10",
-    "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -16059,6 +17499,14 @@
     "pedido_unico": "1082952.0",
     "cnpj_cpf": "40.173.350/0001-74",
     "emissao": "2026-03-13",
+    "vlr_total": 44.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1130650.0",
+    "cnpj_cpf": "40.173.350/0001-74",
+    "emissao": "2026-04-10",
     "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -16160,6 +17608,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208171.0",
+    "cnpj_cpf": "48.210.681/0001-49",
+    "emissao": "2026-05-29",
+    "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208171.0",
+    "cnpj_cpf": "48.210.681/0001-49",
+    "emissao": "2026-05-29",
+    "vlr_total": 48.59,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1079029.0",
     "cnpj_cpf": "48.210.681/0001-49",
     "emissao": "2026-03-12",
@@ -16176,9 +17640,33 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208171.0",
+    "cnpj_cpf": "48.210.681/0001-49",
+    "emissao": "2026-05-29",
+    "vlr_total": 61.69,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208171.0",
+    "cnpj_cpf": "48.210.681/0001-49",
+    "emissao": "2026-05-29",
+    "vlr_total": 89.98,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1079029.0",
     "cnpj_cpf": "48.210.681/0001-49",
     "emissao": "2026-03-12",
+    "vlr_total": 107.98,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208171.0",
+    "cnpj_cpf": "48.210.681/0001-49",
+    "emissao": "2026-05-29",
     "vlr_total": 107.98,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -16336,6 +17824,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206211.0",
+    "cnpj_cpf": "42.692.786/0001-03",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1127523.0",
     "cnpj_cpf": "33.227.732/0001-78",
     "emissao": "2026-04-09",
@@ -16368,10 +17864,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206237.0",
+    "cnpj_cpf": "037.554.615-44",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1159842.0",
     "cnpj_cpf": "57.172.703/0001-14",
     "emissao": "2026-04-30",
     "vlr_total": 161.97,
+    "nome_vendedor": "RAUNES NASCIMENTO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205592.0",
+    "cnpj_cpf": "57.172.703/0001-14",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
@@ -16392,17 +17904,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1151695.0",
+    "pedido_unico": "1193602.0",
     "cnpj_cpf": "65.186.275/0001-07",
-    "emissao": "2026-04-24",
+    "emissao": "2026-05-21",
     "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1193602.0",
+    "pedido_unico": "1151695.0",
     "cnpj_cpf": "65.186.275/0001-07",
-    "emissao": "2026-05-21",
+    "emissao": "2026-04-24",
     "vlr_total": 44.99,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
@@ -16560,17 +18072,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1159701.0",
+    "pedido_unico": "1116795.0",
     "cnpj_cpf": "96.776.109/0001-94",
-    "emissao": "2026-04-30",
+    "emissao": "2026-04-02",
     "vlr_total": 89.98,
     "nome_vendedor": "CLAUBELINO SANTOS (125)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1116795.0",
+    "pedido_unico": "1159701.0",
     "cnpj_cpf": "96.776.109/0001-94",
-    "emissao": "2026-04-02",
+    "emissao": "2026-04-30",
     "vlr_total": 89.98,
     "nome_vendedor": "CLAUBELINO SANTOS (125)",
     "grupo": "Vendas"
@@ -16752,6 +18264,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205135.0",
+    "cnpj_cpf": "09.598.208/0001-29",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "HIAN RIBEIRO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1104102.0",
     "cnpj_cpf": "03.227.705/0001-34",
     "emissao": "2026-03-27",
@@ -16768,17 +18288,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1148994.0",
+    "pedido_unico": "1185578.0",
     "cnpj_cpf": "03.227.705/0001-34",
-    "emissao": "2026-04-23",
+    "emissao": "2026-05-15",
     "vlr_total": 29.29,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1185578.0",
+    "pedido_unico": "1148994.0",
     "cnpj_cpf": "03.227.705/0001-34",
-    "emissao": "2026-05-15",
+    "emissao": "2026-04-23",
     "vlr_total": 29.29,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
@@ -17152,6 +18672,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202885.0",
+    "cnpj_cpf": "47.533.201/0001-18",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1112026.0",
     "cnpj_cpf": "47.533.201/0001-18",
     "emissao": "2026-03-31",
@@ -17164,6 +18692,14 @@
     "cnpj_cpf": "47.533.201/0001-18",
     "emissao": "2026-03-31",
     "vlr_total": 53.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202885.0",
+    "cnpj_cpf": "47.533.201/0001-18",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
@@ -17448,7 +18984,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2377",
+    "pedido_unico": "P2591",
     "cnpj_cpf": "07.461.076/0001-63",
     "emissao": "2026-05-13",
     "vlr_total": 38.99,
@@ -17483,6 +19019,14 @@
     "pedido_unico": "1063089.0",
     "cnpj_cpf": "59.837.010/0001-29",
     "emissao": "2026-03-03",
+    "vlr_total": 53.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202148.0",
+    "cnpj_cpf": "59.837.010/0001-29",
+    "emissao": "2026-05-26",
     "vlr_total": 53.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
@@ -17584,6 +19128,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202756.0",
+    "cnpj_cpf": "21.620.003/0001-06",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1157572.0",
     "cnpj_cpf": "21.620.003/0001-06",
     "emissao": "2026-04-28",
@@ -17656,6 +19208,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202764.0",
+    "cnpj_cpf": "51.706.424/0001-07",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1088470.0",
     "cnpj_cpf": "45.733.255/0001-00",
     "emissao": "2026-03-17",
@@ -17672,6 +19232,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202761.0",
+    "cnpj_cpf": "54.730.944/0001-43",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1157580.0",
     "cnpj_cpf": "54.730.944/0001-43",
     "emissao": "2026-04-28",
@@ -17684,6 +19252,14 @@
     "cnpj_cpf": "54.730.944/0001-43",
     "emissao": "2026-03-17",
     "vlr_total": 44.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202761.0",
+    "cnpj_cpf": "54.730.944/0001-43",
+    "emissao": "2026-05-26",
+    "vlr_total": 35.69,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
@@ -17840,6 +19416,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202887.0",
+    "cnpj_cpf": "19.823.077/0001-90",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1063011.0",
     "cnpj_cpf": "12.664.673/0001-25",
     "emissao": "2026-03-03",
@@ -17872,6 +19456,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202156.0",
+    "cnpj_cpf": "12.664.673/0001-25",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1112009.0",
     "cnpj_cpf": "12.664.673/0001-25",
     "emissao": "2026-03-31",
@@ -17899,6 +19491,14 @@
     "pedido_unico": "1063011.0",
     "cnpj_cpf": "12.664.673/0001-25",
     "emissao": "2026-03-03",
+    "vlr_total": 39.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202156.0",
+    "cnpj_cpf": "12.664.673/0001-25",
+    "emissao": "2026-05-26",
     "vlr_total": 39.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -17947,6 +19547,14 @@
     "pedido_unico": "1067048.0",
     "cnpj_cpf": "55.999.846/0001-79",
     "emissao": "2026-03-06",
+    "vlr_total": 29.29,
+    "nome_vendedor": "ALLYS ARAUJO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205707.0",
+    "cnpj_cpf": "55.999.846/0001-79",
+    "emissao": "2026-05-29",
     "vlr_total": 29.29,
     "nome_vendedor": "ALLYS ARAUJO",
     "grupo": "Vendas"
@@ -18008,17 +19616,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1147420.0",
+    "pedido_unico": "1190794.0",
     "cnpj_cpf": "58.740.999/0001-95",
-    "emissao": "2026-04-22",
+    "emissao": "2026-05-19",
     "vlr_total": 44.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1190794.0",
+    "pedido_unico": "1147420.0",
     "cnpj_cpf": "58.740.999/0001-95",
-    "emissao": "2026-05-19",
+    "emissao": "2026-04-22",
     "vlr_total": 44.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
@@ -18088,6 +19696,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208082.0",
+    "cnpj_cpf": "35.762.280/0001-50",
+    "emissao": "2026-05-29",
+    "vlr_total": 35.69,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205642.0",
+    "cnpj_cpf": "05.687.324/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 97.18,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1113901.0",
     "cnpj_cpf": "05.687.324/0001-63",
     "emissao": "2026-03-31",
@@ -18100,6 +19724,22 @@
     "cnpj_cpf": "05.687.324/0001-63",
     "emissao": "2026-05-08",
     "vlr_total": 48.59,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205642.0",
+    "cnpj_cpf": "05.687.324/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 58.58,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205642.0",
+    "cnpj_cpf": "05.687.324/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 29.29,
     "nome_vendedor": "ROMILSON ALVES",
     "grupo": "Vendas"
   },
@@ -18196,6 +19836,22 @@
     "cnpj_cpf": "32.665.943/0001-20",
     "emissao": "2026-03-13",
     "vlr_total": 44.9,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206762.0",
+    "cnpj_cpf": "46.732.118/0001-05",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "ROMILSON ALVES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206762.0",
+    "cnpj_cpf": "46.732.118/0001-05",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
     "nome_vendedor": "ROMILSON ALVES",
     "grupo": "Vendas"
   },
@@ -18320,6 +19976,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1206465.0",
+    "cnpj_cpf": "07.905.406/0001-62",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "ANDRÉ RODRIGUES",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1161352.0",
     "cnpj_cpf": "62.338.099/0001-93",
     "emissao": "2026-04-30",
@@ -18336,6 +20000,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1098949.0",
+    "cnpj_cpf": "56.899.927/0001-60",
+    "emissao": "2026-03-24",
+    "vlr_total": 39.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1190899.0",
     "cnpj_cpf": "56.899.927/0001-60",
     "emissao": "2026-05-19",
@@ -18344,11 +20016,11 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1098949.0",
-    "cnpj_cpf": "56.899.927/0001-60",
-    "emissao": "2026-03-24",
-    "vlr_total": 39.99,
-    "nome_vendedor": "BRUNO OLIVEIRA",
+    "pedido_unico": "1202040.0",
+    "cnpj_cpf": "46.850.505/0001-46",
+    "emissao": "2026-05-26",
+    "vlr_total": 61.69,
+    "nome_vendedor": "ANDRÉ RODRIGUES",
     "grupo": "Vendas"
   },
   {
@@ -18408,7 +20080,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2504",
+    "pedido_unico": "P2736",
     "cnpj_cpf": "045.302.195-69",
     "emissao": "2026-05-17",
     "vlr_total": 39.99,
@@ -18424,7 +20096,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2507",
+    "pedido_unico": "P2739",
     "cnpj_cpf": "045.302.195-69",
     "emissao": "2026-05-17",
     "vlr_total": 53.99,
@@ -18496,6 +20168,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1157190.0",
+    "cnpj_cpf": "46.953.525/0001-42",
+    "emissao": "2026-04-28",
+    "vlr_total": 44.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1190945.0",
     "cnpj_cpf": "46.953.525/0001-42",
     "emissao": "2026-05-19",
@@ -18504,10 +20184,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1157190.0",
+    "pedido_unico": "1201989.0",
     "cnpj_cpf": "46.953.525/0001-42",
-    "emissao": "2026-04-28",
-    "vlr_total": 44.99,
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
     "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
@@ -18520,14 +20200,6 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1168550.0",
-    "cnpj_cpf": "45.692.967/0001-10",
-    "emissao": "2026-05-05",
-    "vlr_total": 29.29,
-    "nome_vendedor": "WESCKEY FONTES",
-    "grupo": "Vendas"
-  },
-  {
     "pedido_unico": "1076284.0",
     "cnpj_cpf": "45.692.967/0001-10",
     "emissao": "2026-03-10",
@@ -18536,18 +20208,10 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1106794.0",
-    "cnpj_cpf": "12.975.131/0001-73",
-    "emissao": "2026-03-27",
-    "vlr_total": 39.99,
-    "nome_vendedor": "WESCKEY FONTES",
-    "grupo": "Vendas"
-  },
-  {
-    "pedido_unico": "1198429.0",
-    "cnpj_cpf": "12.975.131/0001-73",
-    "emissao": "2026-05-22",
-    "vlr_total": 39.99,
+    "pedido_unico": "1168550.0",
+    "cnpj_cpf": "45.692.967/0001-10",
+    "emissao": "2026-05-05",
+    "vlr_total": 29.29,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
@@ -18568,10 +20232,18 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1147549.0",
+    "pedido_unico": "1106794.0",
     "cnpj_cpf": "12.975.131/0001-73",
-    "emissao": "2026-04-22",
-    "vlr_total": 38.99,
+    "emissao": "2026-03-27",
+    "vlr_total": 39.99,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1198429.0",
+    "cnpj_cpf": "12.975.131/0001-73",
+    "emissao": "2026-05-22",
+    "vlr_total": 39.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
@@ -18580,6 +20252,14 @@
     "cnpj_cpf": "12.975.131/0001-73",
     "emissao": "2026-05-22",
     "vlr_total": 35.69,
+    "nome_vendedor": "WESCKEY FONTES",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1147549.0",
+    "cnpj_cpf": "12.975.131/0001-73",
+    "emissao": "2026-04-22",
+    "vlr_total": 38.99,
     "nome_vendedor": "WESCKEY FONTES",
     "grupo": "Vendas"
   },
@@ -18832,7 +20512,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2560",
+    "pedido_unico": "P2793",
     "cnpj_cpf": "14.771.870/0001-79",
     "emissao": "2026-03-18",
     "vlr_total": 61.69,
@@ -18848,7 +20528,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2563",
+    "pedido_unico": "P2796",
     "cnpj_cpf": "14.771.870/0001-79",
     "emissao": "2026-03-18",
     "vlr_total": 39.99,
@@ -19024,7 +20704,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2595",
+    "pedido_unico": "P2833",
     "cnpj_cpf": "09.186.389/0001-86",
     "emissao": "2026-05-21",
     "vlr_total": 179.96,
@@ -19072,10 +20752,26 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202082.0",
+    "cnpj_cpf": "07.339.392/0001-67",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1180277.0",
     "cnpj_cpf": "07.339.392/0001-67",
     "emissao": "2026-05-12",
     "vlr_total": 38.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201949.0",
+    "cnpj_cpf": "40.557.572/0001-90",
+    "emissao": "2026-05-26",
+    "vlr_total": 39.99,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
@@ -19092,6 +20788,14 @@
     "cnpj_cpf": "40.557.572/0001-90",
     "emissao": "2026-05-12",
     "vlr_total": 38.99,
+    "nome_vendedor": "DIEGO SILVA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1201952.0",
+    "cnpj_cpf": "50.374.913/0001-46",
+    "emissao": "2026-05-26",
+    "vlr_total": 35.69,
     "nome_vendedor": "DIEGO SILVA",
     "grupo": "Vendas"
   },
@@ -19196,6 +20900,14 @@
     "cnpj_cpf": "26.337.649/0001-96",
     "emissao": "2026-03-17",
     "vlr_total": 44.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1202102.0",
+    "cnpj_cpf": "26.337.649/0001-96",
+    "emissao": "2026-05-26",
+    "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
     "grupo": "Vendas"
   },
@@ -19312,6 +21024,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1202067.0",
+    "cnpj_cpf": "14.376.745/0001-64",
+    "emissao": "2026-05-26",
+    "vlr_total": 44.99,
+    "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1087420.0",
     "cnpj_cpf": "26.194.496/0001-75",
     "emissao": "2026-03-17",
@@ -19325,6 +21045,14 @@
     "emissao": "2026-03-31",
     "vlr_total": 53.99,
     "nome_vendedor": "CARMILTON GOMES (118)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1206693.0",
+    "cnpj_cpf": "42.056.909/0001-01",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "AROLDO",
     "grupo": "Vendas"
   },
   {
@@ -19376,7 +21104,15 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2649",
+    "pedido_unico": "1206578.0",
+    "cnpj_cpf": "64.161.465/0001-07",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "AROLDO",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P2894",
     "cnpj_cpf": "085.883.215-13",
     "emissao": "2026-05-14",
     "vlr_total": 44.99,
@@ -19384,7 +21120,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2652",
+    "pedido_unico": "P2897",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-04-09",
     "vlr_total": 39.99,
@@ -19392,7 +21128,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2654",
+    "pedido_unico": "P2899",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-04-06",
     "vlr_total": 39.99,
@@ -19400,7 +21136,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2655",
+    "pedido_unico": "P2900",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-04-09",
     "vlr_total": 39.99,
@@ -19416,7 +21152,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2657",
+    "pedido_unico": "P2902",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-03-24",
     "vlr_total": 45.99,
@@ -19440,7 +21176,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2662",
+    "pedido_unico": "P2907",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-03-31",
     "vlr_total": 38.99,
@@ -19448,7 +21184,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2664",
+    "pedido_unico": "P2909",
     "cnpj_cpf": "35.229.626/0001-59",
     "emissao": "2026-03-24",
     "vlr_total": 38.99,
@@ -19800,9 +21536,33 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1126231.0",
+    "pedido_unico": "1208927.0",
     "cnpj_cpf": "00.924.667/0001-80",
-    "emissao": "2026-04-10",
+    "emissao": "2026-05-29",
+    "vlr_total": 44.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -19811,6 +21571,46 @@
     "pedido_unico": "1126231.0",
     "cnpj_cpf": "00.924.667/0001-80",
     "emissao": "2026-04-10",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1126231.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-04-10",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "PAULA RIBEIRO (101)",
     "grupo": "Vendas"
@@ -19824,6 +21624,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 38.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1126231.0",
     "cnpj_cpf": "00.924.667/0001-80",
     "emissao": "2026-04-10",
@@ -19832,7 +21640,15 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2712",
+    "pedido_unico": "1208927.0",
+    "cnpj_cpf": "00.924.667/0001-80",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "PAULA RIBEIRO (101)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "P2967",
     "cnpj_cpf": "954.137.155-87",
     "emissao": "2026-04-09",
     "vlr_total": 65.98,
@@ -19848,6 +21664,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "P2970",
+    "cnpj_cpf": "07.821.579/0001-00",
+    "emissao": "2026-05-25",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1143284.0",
     "cnpj_cpf": "07.821.579/0001-00",
     "emissao": "2026-04-17",
@@ -19864,6 +21688,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "P2973",
+    "cnpj_cpf": "07.821.579/0001-00",
+    "emissao": "2026-05-25",
+    "vlr_total": 39.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1143284.0",
     "cnpj_cpf": "07.821.579/0001-00",
     "emissao": "2026-04-17",
@@ -19880,6 +21712,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "P2978",
+    "cnpj_cpf": "07.821.579/0001-00",
+    "emissao": "2026-05-25",
+    "vlr_total": 38.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1143284.0",
     "cnpj_cpf": "07.821.579/0001-00",
     "emissao": "2026-04-17",
@@ -19888,7 +21728,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2719",
+    "pedido_unico": "P2980",
     "cnpj_cpf": "35.046.665/0001-10",
     "emissao": "2026-04-27",
     "vlr_total": 44.99,
@@ -19904,7 +21744,7 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "P2722",
+    "pedido_unico": "P2983",
     "cnpj_cpf": "35.046.665/0001-10",
     "emissao": "2026-04-27",
     "vlr_total": 53.99,
@@ -20008,6 +21848,14 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205103.0",
+    "cnpj_cpf": "20.065.498/0001-88",
+    "emissao": "2026-05-29",
+    "vlr_total": 107.98,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1104280.0",
     "cnpj_cpf": "20.065.498/0001-88",
     "emissao": "2026-03-27",
@@ -20019,6 +21867,14 @@
     "pedido_unico": "1149609.0",
     "cnpj_cpf": "20.065.498/0001-88",
     "emissao": "2026-04-24",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205103.0",
+    "cnpj_cpf": "20.065.498/0001-88",
+    "emissao": "2026-05-29",
     "vlr_total": 53.99,
     "nome_vendedor": "GABRIEL SODRE (120)",
     "grupo": "Vendas"
@@ -20080,6 +21936,22 @@
     "grupo": "Vendas"
   },
   {
+    "pedido_unico": "1205108.0",
+    "cnpj_cpf": "59.691.010/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1205108.0",
+    "cnpj_cpf": "59.691.010/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 53.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
+    "grupo": "Vendas"
+  },
+  {
     "pedido_unico": "1139558.0",
     "cnpj_cpf": "59.691.010/0001-63",
     "emissao": "2026-04-17",
@@ -20096,17 +21968,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1181994.0",
-    "cnpj_cpf": "07.117.917/0001-10",
-    "emissao": "2026-05-13",
-    "vlr_total": 29.29,
-    "nome_vendedor": "BRUNO OLIVEIRA",
+    "pedido_unico": "1205108.0",
+    "cnpj_cpf": "59.691.010/0001-63",
+    "emissao": "2026-05-29",
+    "vlr_total": 39.99,
+    "nome_vendedor": "GABRIEL SODRE (120)",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1148718.0",
+    "pedido_unico": "1181994.0",
     "cnpj_cpf": "07.117.917/0001-10",
-    "emissao": "2026-04-23",
+    "emissao": "2026-05-13",
     "vlr_total": 29.29,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20120,9 +21992,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1089524.0",
+    "pedido_unico": "1148718.0",
     "cnpj_cpf": "07.117.917/0001-10",
-    "emissao": "2026-03-18",
+    "emissao": "2026-04-23",
     "vlr_total": 29.29,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20131,6 +22003,14 @@
     "pedido_unico": "1181994.0",
     "cnpj_cpf": "07.117.917/0001-10",
     "emissao": "2026-05-13",
+    "vlr_total": 29.29,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1089524.0",
+    "cnpj_cpf": "07.117.917/0001-10",
+    "emissao": "2026-03-18",
     "vlr_total": 29.29,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20155,6 +22035,14 @@
     "pedido_unico": "1124741.0",
     "cnpj_cpf": "47.073.014/0001-07",
     "emissao": "2026-04-08",
+    "vlr_total": 44.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1203578.0",
+    "cnpj_cpf": "47.073.014/0001-07",
+    "emissao": "2026-05-27",
     "vlr_total": 44.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20208,9 +22096,9 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1148715.0",
+    "pedido_unico": "1203513.0",
     "cnpj_cpf": "58.344.131/0001-76",
-    "emissao": "2026-04-23",
+    "emissao": "2026-05-27",
     "vlr_total": 39.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20219,6 +22107,14 @@
     "pedido_unico": "1101145.0",
     "cnpj_cpf": "58.344.131/0001-76",
     "emissao": "2026-03-25",
+    "vlr_total": 39.99,
+    "nome_vendedor": "BRUNO OLIVEIRA",
+    "grupo": "Vendas"
+  },
+  {
+    "pedido_unico": "1148715.0",
+    "cnpj_cpf": "58.344.131/0001-76",
+    "emissao": "2026-04-23",
     "vlr_total": 39.99,
     "nome_vendedor": "BRUNO OLIVEIRA",
     "grupo": "Vendas"
@@ -20288,17 +22184,17 @@
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1104840.0",
+    "pedido_unico": "1197236.0",
     "cnpj_cpf": "09.368.777/0001-88",
-    "emissao": "2026-03-27",
+    "emissao": "2026-05-22",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
   },
   {
-    "pedido_unico": "1197236.0",
+    "pedido_unico": "1104840.0",
     "cnpj_cpf": "09.368.777/0001-88",
-    "emissao": "2026-05-22",
+    "emissao": "2026-03-27",
     "vlr_total": 48.59,
     "nome_vendedor": "RAUNES NASCIMENTO",
     "grupo": "Vendas"
